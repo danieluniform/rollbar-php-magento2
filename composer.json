@@ -1,5 +1,5 @@
 {
-    "name": "rollbar/rollbar-magento2",
+    "name": "danieluniform/rollbar-magento2",
     "description": "Rollbar SDK for Magento 2",
     "type": "library",
     "require": {
